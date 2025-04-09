@@ -41,7 +41,7 @@
 ### 🐍 Snake Contribution Graph
 <div align="center">
  
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </div>
 
 ---
@@ -54,7 +54,7 @@
 ---
 <div align="center">
  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=chinwut)
 
 </div>
 
