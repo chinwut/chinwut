@@ -49,3 +49,12 @@
 ### 🚀 About Me
 - 🌱 Currently learning and exploring new technologies.
 - 🔭 Building fullstack web and mobile applications.
+
+
+---
+<div align="center">
+ 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
+</div>
+
